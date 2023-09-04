@@ -4,8 +4,6 @@
 
 <h1 align="center"><font color="red">声明</font></h1>
 
-**这项目我一直作为技术分享，不做收费（版权归我个人独有，大家拿来学习交流随时欢迎，拒绝商用）。希望大家可以尊重下我的劳动成果，谢谢。**
-
 <br/>
 
 ## 项目说明
@@ -165,38 +163,4 @@ npm install // 安装依赖
 npm run serve // 启动后台管理项目
 ```
 
-### 5、常见问题
-
-常见启动问题整理如下
-
-https://github.com/Yin-Hongwei/music-website/discussions/182
-
-<br/>
-
-## 赞助
-
-如果此项目对你确实有帮助，欢迎给我打赏一杯咖啡～😄
-
-<img src="https://p.ipic.vip/vo0xfy.jpg" height="300px"/>
-
-<br/>
-
-
-
-## 联系方式
-
-**1、邮箱📮：[yinhongwei96@126.com](mailto:yinhongwei96@126.com)**
-
-**2、微信公众号**
-
-> **目前公众号的定位主要是临时帮大家解决问题，不发表其他东西，有疑问可以临时联系。**
-
-<img src="https://p.ipic.vip/1xx9md.png"/>
-
-
-<br/>
-
-## License
-
-Copyright (c) 2018 Yin-Hongwei 
 
